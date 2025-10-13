@@ -23,11 +23,11 @@ Branches in this repo (with details):
     5ae2e0c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:17:16Z | Auto-update branch-info.txt
     f612d27 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T18:17:03-04:00 | Initial commit
 - main
-  SHA: 85c471c0958ff1329ccf7039b5fc1bac94c50e77
-  Commits: 5
+  SHA: e0251a38c37c382b42524b1bb8d1e565f9f38f00
+  Commits: 9
   Recent commits:
+    e0251a3 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:24:25Z | Merge branch 'lab7'
+    1236f58 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T23:21:20Z | Auto-update branch-info.txt
+    b19f9e0 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:20:56Z | The rest of it hopefully
     85c471c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:50:27Z | Auto-update branch-info.txt
-    09f1a56 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:38:38Z | Auto-update branch-info.txt
-    e3de91d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:37:11Z | Auto-update branch-info.txt
-    5ae2e0c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:17:16Z | Auto-update branch-info.txt
-    f612d27 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T18:17:03-04:00 | Initial commit
+    3b49ae1 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T22:49:30Z | completed step1
