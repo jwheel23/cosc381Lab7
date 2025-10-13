@@ -11,6 +11,8 @@ class Encrypt(Operator):
 
     KEY = "key"
 
+
+        
     def operate(self, text: str = None, params: Dict = None) -> str:
         """
         Anonymize the text with an encrypted text.
