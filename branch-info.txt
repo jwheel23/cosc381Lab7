@@ -7,13 +7,15 @@ Branches in this repo (with details):
     79108fc | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T22:38:30Z | Bump python in /presidio-anonymizer
     5ae2e0c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:17:16Z | Auto-update branch-info.txt
     f612d27 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T18:17:03-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: 585c7de68a607387f69f014df2f37dab26f3a317
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 3336265692f3603393f03a387d1d666bab0b6c1b
+  Commits: 11
   Recent commits:
-    585c7de | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T22:37:04Z | Bump actions/checkout from 3 to 5
-    5ae2e0c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:17:16Z | Auto-update branch-info.txt
-    f612d27 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T18:17:03-04:00 | Initial commit
+    3336265 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T10:15:32Z | Bump actions/checkout from 3 to 6
+    7ee1203 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T23:24:55Z | Auto-update branch-info.txt
+    e0251a3 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:24:25Z | Merge branch 'lab7'
+    1236f58 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T23:21:20Z | Auto-update branch-info.txt
+    b19f9e0 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:20:56Z | The rest of it hopefully
 - lab7
   SHA: b19f9e0220e8a93c0390a29b62e341ce43700394
   Commits: 4
@@ -23,11 +25,11 @@ Branches in this repo (with details):
     5ae2e0c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:17:16Z | Auto-update branch-info.txt
     f612d27 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-13T18:17:03-04:00 | Initial commit
 - main
-  SHA: e0251a38c37c382b42524b1bb8d1e565f9f38f00
-  Commits: 9
+  SHA: 7ee12035ff7a981b3fa57cb9344ad629de83f4c8
+  Commits: 10
   Recent commits:
+    7ee1203 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T23:24:55Z | Auto-update branch-info.txt
     e0251a3 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:24:25Z | Merge branch 'lab7'
     1236f58 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T23:21:20Z | Auto-update branch-info.txt
     b19f9e0 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T23:20:56Z | The rest of it hopefully
     85c471c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-13T22:50:27Z | Auto-update branch-info.txt
-    3b49ae1 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-10-13T22:49:30Z | completed step1
